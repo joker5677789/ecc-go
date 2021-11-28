@@ -3,7 +3,7 @@
 1. Install Golang
 
 2. Compile
-cd /path/to/hecochain
+cd /path/to/ecc
 make geth
 
 If you want to use cross compile, like compiling on Mac for Linux, use make geth-linux, make geth-linux-amd64, etc.
